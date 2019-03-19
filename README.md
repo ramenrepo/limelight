@@ -1,5 +1,7 @@
 # Limelight
 
+<img src='limelight_sample.png'/>
+
 - This repository contains the source vectors for Limelight (.ai and .svg)
 - I have included a CSV file which includes the names and bundle IDs of icons in roughly the same order as the icons are placed in the vector files (a,b,c,d,e).
 
