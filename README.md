@@ -5,7 +5,7 @@
 
 ## Exporting
 - I usually choose to export as a PNG with Photoshop.
-- Naming convention is '<bundleid>-large.png'
+- Naming convention is '[bundleid]-large.png'
 - You can find bundle IDs here: https://offcornerdev.com/bundleid.html
 - You can alternatively install BundleIDsXI or some equivalent to list the bundle IDs of apps installed on your device.
 - More details: https://github.com/AnemoneTeam/Anemone/wiki
