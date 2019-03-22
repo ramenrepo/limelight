@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ThemeType</key>
+	<string>Icons</string>
+	<key>CalendarIconDateSettings</key>
+	<dict>
+		<key>FontSize</key>
+		<integer>16</integer>
+		<key>FontName</key>
+		<string>Helvetica</string>
+		<key>TextColor</key>
+		<string>#FFD6D6</string>
+		<key>TextYoffset</key>
+		<integer>9</integer>
+	</dict>
+	<key>CalendarIconDaySettings</key>
+	<dict>
+		<key>FontSize</key>
+		<integer>0</integer>
+		<key>ShadowBlurRadius</key>
+		<integer>0</integer>
+		<key>ShadowColor</key>
+		<string>rgba(0,0,0,0)</string>
+		<key>TextColor</key>
+		<string>#666420</string>
+		<key>TextYoffset</key>
+		<real>0</real>
+	</dict>
+	<key>IB-MaskIcons</key>
+	<false/>
+	<key>PackageName</key>
+	<string>Limelight</string>
+</dict>
+</plist>

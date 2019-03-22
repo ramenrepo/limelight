@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ThemeType</key>
+	<string>Badges</string>
+	<key>BadgeSettings</key>
+	<dict>
+		<key>FontName</key>
+		<string>Helvetica Bold</string>
+		<key>FontSize</key>
+		<integer>10</integer>
+		<key>HeightChange</key>
+		<real>0</real>
+		<key>WidthChange</key>
+		<integer>0</integer>
+		<key>TextXoffset</key>
+		<integer>0</integer>
+		<key>TextYoffset</key>
+		<integer>1</integer>
+		<key>TextColor</key>
+		<string>#ffffff</string>
+		<key>Xoffset</key>
+		<integer>0</integer>
+	</dict>
+	<key>PackageName</key>
+	<string>Limelight</string>
+</dict>
+</plist>
